@@ -35007,7 +35007,7 @@ const Footer = ()=>{
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                        children: "\xa92024 Susmit Das"
+                        children: "\xa92024 Aritra Mandal"
                     }, void 0, false, {
                         fileName: "src/components/Footer.js",
                         lineNumber: 6,

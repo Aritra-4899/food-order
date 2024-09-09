@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="flex justify-evenly bg-black text-white mt-20 py-10 leading-10">
       <div>
         <h3 className="font-bold">🍔Namaste Food</h3>
-        <span>&#169;2024 Susmit Das</span>
+        <span>&#169;2024 Aritra Mandal</span>
       </div>
       <div>
         <h4 className="font-bold underline">Comapny</h4>
